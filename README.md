@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<img src="https://raw.githubusercontent.com/Cauazinkj/Cauazinkj/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/Cauazinkj/Cauazinkj/output/github-contribution-grid-snake.svg)
