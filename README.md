@@ -1,5 +1,5 @@
 ## Olá, sou o Cauã!✌🏻👍🏼
-Sou estudante de ciência da computação, tenho interesse de me especializar na área voltada para o back-end. Minha prioridade é demonstrar um trabalho de qualidade e aperfeiçoar minhas soft skills, pegar experiência e me tornar um profissional de extrema qualidade para o mercado de trabalho, buscando conhecimento e aperfeiçoando minhas habilidades.
+Sou estudante de Ciência da Computação, com foco em desenvolvimento Back-End. Busco oportunidades que me permitam adquirir experiência prática, desenvolver soft skills e entregar trabalhos de alta qualidade. Tenho como prioridade a evolução contínua, tanto técnica quanto pessoal, com o objetivo de me tornar um profissional completo e preparado para os desafios do mercado de tecnologia.
 
 #
 
