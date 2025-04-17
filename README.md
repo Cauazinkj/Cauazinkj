@@ -11,3 +11,5 @@ Sou estudante de Ciência da Computação, com foco em desenvolvimento Back-End.
 #
 
 ![Snake animation](https://raw.githubusercontent.com/Cauazinkj/Cauazinkj/output/github-contribution-grid-snake.svg)
+
+<img src="https://raw.githubusercontent.com/Cauazinkj/Cauazinkj/output/github-contribution-grid-snake.svg" alt="Snake animation" />
