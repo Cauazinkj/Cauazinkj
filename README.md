@@ -1,4 +1,5 @@
-## Hi there 👋
+## Olá, sou o Cauã! 👋
+Sou estudante de ciência da computação, tenho interesse de me especializar na área voltada para o back-end. Minha prioridade é demonstrar um trabalho de qualidade e aperfeiçoar minhas soft skills, pegar experiência e me tornar um profissional de extrema qualidade para o mercado de trabalho, buscando conhecimento e aperfeiçoando minhas habilidades.
 
 #
 
