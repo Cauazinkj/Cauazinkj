@@ -1,5 +1,5 @@
 ## Olá, sou o Cauã!✌🏻👍🏼
-Sou estudante de Ciência da Computação, com foco em desenvolvimento Back-End. Busco oportunidades que me permitam adquirir experiência prática, desenvolver soft skills e entregar trabalhos de alta qualidade. Tenho como prioridade a evolução contínua, tanto técnica quanto pessoal, com o objetivo de me tornar um profissional completo e preparado para os desafios do mercado de tecnologia.
+Sou estudante de Ciência da Computação, na Universidade Católica de Brasília, com foco em desenvolvimento Back-End. Busco oportunidades que me permitam adquirir experiência prática, desenvolver soft skills e entregar trabalhos de alta qualidade. Tenho como prioridade a evolução contínua, tanto técnica quanto pessoal, com o objetivo de me tornar um profissional completo e preparado para os desafios do mercado de tecnologia.
 
 #
 
