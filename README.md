@@ -23,7 +23,7 @@ Sou estudante de Ciência da Computação, na Universidade Católica de Brasíli
 
 - 🔄 Integração entre **frontend e backend**
 - ⚙️ Boas práticas de **arquitetura de software**
-- 🌱 Desenvolvimento fullstack com **React + Spring Boot** e **Python e PHP**
+- 🌱 Desenvolvimento fullstack com **React + Spring Boot** e **Python + PHP**
 
 ---
 
