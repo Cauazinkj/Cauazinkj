@@ -57,9 +57,8 @@ Aplicação fullstack desenvolvida com foco em:
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cauazinkj&layout=compact&theme=default&hide_border=true"
-    height="170"
-  />
-</p>
+## 💻 Principais Linguagens
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
