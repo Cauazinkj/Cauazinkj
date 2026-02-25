@@ -48,17 +48,9 @@ Aplicação fullstack desenvolvida com foco em:
 
 ---
 
-## 📊 Estatísticas
-
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=Cauazinkj&theme=default&hide_border=true" 
     height="180"
   />
 </p>
-
-## 💻 Principais Linguagens
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
