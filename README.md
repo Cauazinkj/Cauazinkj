@@ -50,9 +50,11 @@ Aplicação fullstack desenvolvida com foco em:
 
 ## 📊 Estatísticas
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cauazinkj)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cauazinkj)
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Cauazinkj&theme=default&hide_border=true" 
+    height="180"
+  />
+</p>
 
 ![Snake animation](https://raw.githubusercontent.com/Cauazinkj/Cauazinkj/output/github-contribution-grid-snake.svg)
